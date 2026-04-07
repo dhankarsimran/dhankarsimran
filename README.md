@@ -102,6 +102,9 @@ RAG • LLM Evaluation • Prompting • Retrieval Systems
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-blue)
+![MatplotLib](https://img.shields.io/badge/MatplotLib-red)
+![LLMs](https://img.shields.io/badge/LLMs-green)
 ![Databricks](https://img.shields.io/badge/Databricks-red)
 ![AWS](https://img.shields.io/badge/AWS-orange)
 
