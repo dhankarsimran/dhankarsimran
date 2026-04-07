@@ -5,7 +5,7 @@ Building intelligent systems at the intersection of software, data, and machine 
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFpeWwyZnl3eDJ0cDJhbGo0c29ubDY3dGY1ZnZwb2dzYmxpMnJmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -104,14 +104,6 @@ RAG • LLM Evaluation • Prompting • Retrieval Systems
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 ![Databricks](https://img.shields.io/badge/Databricks-red)
 ![AWS](https://img.shields.io/badge/AWS-orange)
-
----
-
-## 📈 GitHub Activity
-
-![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhankarsimran&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhankarsimran&layout=compact)
 
 ---
 
