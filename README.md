@@ -12,7 +12,7 @@ Building intelligent systems at the intersection of software, data, and machine 
 
 ## 🧩 Who I Am
 
-I'm a Data Science graduate student at the University of Washington with a strong foundation in **software engineering, machine learning, and data systems**.
+I'm a Data Science graduate student at the University of Washington, Seattle with a strong foundation in **software engineering, machine learning, and data systems**.
 
 I enjoy building systems that don't just work — but **scale, generalize, and create measurable impact**.
 
