@@ -5,7 +5,7 @@ Building intelligent systems at the intersection of software, data, and machine 
 </p>
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFpeWwyZnl3eDJ0cDJhbGo0c29ubDY3dGY1ZnZwb2dzYmxpMnJmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/1qzirb6B4KXOHbJpd3/giphy.gif" width="300"/>
 </p>
 
 ---
